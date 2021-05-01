@@ -1,6 +1,6 @@
 # Mini-SQL-work
 
-Link to open online: https://colab.research.google.com/drive/17-3XT4d-TYkjMaDmCaPvc5UFoTbLWRTo
+Link: https://colab.research.google.com/drive/17-3XT4d-TYkjMaDmCaPvc5UFoTbLWRTo
 
 Objectives:
 * Avetage sum of orders;
